@@ -1,5 +1,4 @@
 import { css } from 'lit-element'
-import { styles } from '../fiori3/core';
 
 const styles = css`
 .fd-button,
